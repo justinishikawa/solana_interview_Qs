@@ -1,5 +1,12 @@
 # solana_interview_Qs for Data Scientist position
 
+What metrics would you use to determine the health of an ecosystem?
+
+If you were predicting on a metric like average daily users, what would you do to avoid the variance/bias trade off?
+
+Why apply to Solana Labs, why this position?
+
+
 1. Assume you are flipping a fair coin four times, what is a more likely result (2 heads, 2 tails) or (1 head, 3 tails)?
 Flip combinations: 
 ```
