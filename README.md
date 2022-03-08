@@ -8,7 +8,7 @@ probability of 1 head, 3 tails = 4/16 = 1/4
 
 2. You are given an array with [1, 4, '2', '3', 'f', 'sf', 'b', '3', 'b', '4', '2']
  python solution:
-
+```
 ad =[]
 source = [1, 4, '2', '3', 'f', 'sf', 'b', '3', 'b', '4', '2']
 for i in source:
@@ -17,3 +17,4 @@ for i in source:
   elif type(i)=='str':
     if 'b' in i:
       ad.append(i)
+```
